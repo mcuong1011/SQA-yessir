@@ -44,7 +44,7 @@ chrome.contextMenus.onClicked.addListener((info, tab) => {
             popup.style.borderRadius = "6px";
 
             document.body.appendChild(popup);
-            setTimeout(() => popup.remove(), 1000);
+            setTimeout(() => popup.remove(), 500);
           });
       },
       args: [info.selectionText],
