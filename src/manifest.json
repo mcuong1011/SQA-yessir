@@ -89,7 +89,8 @@
         "/contentScript/showOriginal.js",
         "/contentScript/pageTranslator.js",
         "/contentScript/translateSelected.js",
-        "/contentScript/showTranslated.js"
+        "/contentScript/showTranslated.js",
+        "contentScript/selectionIcon.js"
       ]
     },
     {
